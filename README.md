@@ -69,9 +69,38 @@ http://localhost/placement-assist-portal
 
 ## 📸 Screenshots
 
-> Add screenshots here (Home, Login, Dashboard)
+### 🏠 Homepage
 
----
+![Homepage](screenshots/Homepage.png)
+
+### 🔐 Login Page
+
+![Login](screenshots/loginpage.png)
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🧠 MCQ Exam
+
+![MCQ Exam](screenshots/mcqexam.png)
+
+### 📝 MCQ Test
+
+![MCQ Test](screenshots/mcqtest.png)
+
+### 💻 Coding Terminal
+
+![Coding Terminal](screenshots/codingterminal.png)
+
+### 📄 Company Papers
+
+![Company Papers](screenshots/companypapers.png)
+
+### 👤 User Profile
+
+![User Profile](screenshots/userprofile.png)
+
 
 ## ⚠️ Notes
 
