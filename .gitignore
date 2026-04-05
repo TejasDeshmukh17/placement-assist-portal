@@ -1,0 +1,9 @@
+/vendor/
+/PHPMailer/
+/ace-builds-1.4.14/
+/online-ide-master/
+/Documentation/
+/uploads/
+*.log
+.env
+js/ace editor/
